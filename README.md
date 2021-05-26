@@ -6,3 +6,7 @@
 ## 开机启动
 使用Windows计划任务,或者直接将.vbs文件放入win10的C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp文件夹下
 win7放在开始菜单的启动文件夹下
+## 配置账户,编辑config.txt
+-pool 为火币的eth矿池
+-wal 改为自己的钱包地址.矿工号
+-gpow 后配置gpu使用百分比 例70为使用百分之七十算力
