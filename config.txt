@@ -12,7 +12,7 @@
 #
 
 -pool stratum+tcp://en.huobipool.com:1801 -pool2 stratum+tcp://en.huobipool.com:1800
--wal meruro2.002
+-wal meruro2.003
 -log 0
 -gpow 70
 #-proto 3
